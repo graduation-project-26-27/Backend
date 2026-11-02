@@ -129,3 +129,6 @@ docker compose exec app php artisan optimize:clear
 Once all services are running, access the Laravel application through:
 
 **Application URL:** http://localhost:8000
+
+-----
+
