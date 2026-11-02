@@ -51,7 +51,7 @@ cp .env.example .env
 Configure the database settings in your `.env` file:
 
 ```env
-APP_NAME=Graduation Project
+APP_NAME="Graduation Project"
 APP_ENV=local
 APP_DEBUG=true
 APP_URL=http://localhost:8000
