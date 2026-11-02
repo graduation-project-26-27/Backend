@@ -1,6 +1,6 @@
 # Backend
 
-# Docker Setup & Installation
+#  Setup & Installation
 
 This guide explains how to set up and run the project locally using **Docker and Docker Compose**.
 
